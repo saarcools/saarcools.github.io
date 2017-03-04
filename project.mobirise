@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
-    "name": "NewSite-10-01_1312",
+    "name": "NewSite-03-03_0916new",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 0
+    "uniqCompNum": 3
   },
   "pages": {
     "index.html": {
@@ -40,24 +40,12 @@
       "components": [
         {
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "80px"
-            }
-          },
           "_anchor": "index-header1-0",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0086-2000x3004-91.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -69,142 +57,284 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false
           },
-          "title": "Artpage",
-          "text": "Saar Cools",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "title": "<i>Artpage</i><br><span style=\"font-weight: normal;\">Saar cools</span>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "72px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-2000x3233-47-2000x3233-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1-2000x3233-47.jpg",
+                "caption": "canvas, 120x160cm",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0413aca2-2000x2345-800x938.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0413aca2-2000x2345.jpg",
+                "caption": "canvas",
+                "active": false
+              },
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-2000x3004-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca1-2000x3004.jpg",
+                "caption": "on paper,A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0287aca2-2000x2784-800x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0287aca2-2000x2784.jpg",
+                "caption": "nudemodel,A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-2000x2830-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca1-2000x2830.jpg",
+                "caption": "on paper,A4",
+                "active": false
+              },
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-2000x2995-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1-2000x2995.jpg",
+                "caption": "on paper,A4",
+                "active": false
+              },
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0094aca1-2000x2112-800x844.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0094aca1-2000x2112.jpg",
+                "caption": "wooden panel, 35x35cm",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255-800x1302.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255.jpg",
+                "caption": "nudemodel, 35x18",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0408aca2-2000x1192-800x476.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0408aca2-2000x1192.jpg",
+                "caption": "wooden panels",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0432aca2-2000x2051-800x820.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0432aca2-2000x2051.jpg",
+                "caption": "&nbsp;wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0434aca2-2000x2244-800x897.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0434aca2-2000x2244.jpg",
+                "caption": "&nbsp;wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0465aca2-2000x1971-800x788.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0465aca2-2000x1971.jpg",
+                "caption": "wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0461aca2-2000x1999-800x799.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999.jpg",
+                "caption": "wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0463aca2-2000x2078-800x831.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0463aca2-2000x2078.jpg",
+                "caption": "wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0435aca2-2000x2300-800x920.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0435aca2-2000x2300.jpg",
+                "caption": "wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068.jpg",
+                "caption": "wooden panel",
+                "active": false
+              },
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0095aca1-2000x3347-800x1338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0095aca1-2000x3347.jpg",
+                "caption": "wooden panel,27x45cm",
+                "active": true
+              },
+              {
+                "tags": "Academic year 1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-2000x2234-800x893.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1-2000x2234.jpg",
+                "caption": "canvas,90x110cm",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "index-gallery4-0",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_name": "slider3",
           "_params": {
             "autoplay": true,
             "paddingTop": "4",
-            "paddingBottom": "2",
-            "timeout": "6",
+            "paddingBottom": "4",
+            "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0079-2000x2006-56.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0086-2000x3004-93.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0088-2000x2830-19.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0089-2000x2995-79.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0090-2000x2848-79.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085-2000x3233-68.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0098-2000x2234-29.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc-0099-2000x2229-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tumblr-om3g5nqh2d1t96ni3o1-2000x2325.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "showTitle": false,
                 "title": "",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#7e9b9f",
-            "showBullets": true
+            "bgColor": "#fff",
+            "showBullets": false
           },
-          "_anchor": "index-slider3-0",
+          "_anchor": "slider3-0",
           "articleLayout": false
         },
         {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -253,8 +383,8 @@
               "color": "#c0a375!important"
             }
           },
-          "_name": "menu",
-          "_anchor": "index-menu-0",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -282,378 +412,21 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "header5",
-          "_anchor": "index-header5-0",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "SOLID COLOR INTRO",
-          "text": "Kunststudent van Sint-Lucas Gent<br>2de Bachelor schilderkunst&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_name": "social-buttons1",
-          "_anchor": "index-social-buttons1-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
-        },
-        {
-          "_name": "contacts4",
-          "_anchor": "index-contacts4-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: saar.cools@hotmail.com<br>\nPhone: 0498440929<br>",
-          "text2": "<ul class=\"mbr-contacts__list\"><br></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "saar.cools@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "page1-menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "contacts4",
-          "_anchor": "page1-contacts4-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: saar.cools@hotmail.com<br>\nPhone: 0498440929<br>",
-          "text2": "<ul class=\"mbr-contacts__list\"><br></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "saar.cools@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "page2-menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "contacts4",
-          "_anchor": "page2-contacts4-0",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: saar.cools@hotmail.com<br>\nPhone: 0498440929<br>",
-          "text2": "<ul class=\"mbr-contacts__list\"><br></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "saar.cools@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
+          "text": "<blockquote><p>Artstudent Sint-Lucas, Gent</p><p>Painting, Academic year 2</p><p>Themes and inspiration: buildings, landscapes, maps, my own pictures</p><p><br></p></blockquote>"
         }
       ]
     }
