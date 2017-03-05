@@ -161,7 +161,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255-800x1302.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0085aca2-2000x3255.jpg",
-                "caption": "nudemodel, 35x18",
+                "caption": "nudemodel, 35x18cm",
                 "active": false
               },
               {
@@ -252,7 +252,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-0095aca1-2000x3347-800x1338.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-0095aca1-2000x3347.jpg",
                 "caption": "wooden panel,27x45cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "2016",
@@ -263,6 +263,36 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1-2000x2234.jpg",
                 "caption": "canvas,90x110cm",
                 "active": false
+              },
+              {
+                "tags": "Collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0008aca2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0008aca2-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-2000x2936-800x1174.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0258aca2-2000x2936.jpg",
+                "caption": "nudemodel, A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0268aca2-2000x3178-800x1271.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0268aca2-2000x3178.jpg",
+                "caption": "nudemodel, A4",
+                "active": true
               }
             ],
             "spacing": 1,
