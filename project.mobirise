@@ -42,6 +42,17 @@
       "components": [
         {
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "80px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            }
+          },
           "_anchor": "index-header1-0",
           "_params": {
             "parallax": true,
@@ -64,18 +75,7 @@
           },
           "title": "Saar Cools<span style=\"font-weight: normal; line-height: 1.1;\"><br></span><br>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "80px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "gallery1",
@@ -101,7 +101,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0413aca2-2000x2345-800x938.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0413aca2-2000x2345.jpg",
-                "caption": "canvas",
+                "caption": "canvas, 145x120cm",
                 "active": false
               },
               {
@@ -181,7 +181,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0432aca2-2000x2051-800x820.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0432aca2-2000x2051.jpg",
-                "caption": "&nbsp;wooden panel",
+                "caption": "&nbsp;wooden panel, 58x58cm",
                 "active": false
               },
               {
@@ -201,7 +201,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0465aca2-2000x1971-800x788.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0465aca2-2000x1971.jpg",
-                "caption": "wooden panel",
+                "caption": "wooden panel, 16x16cm",
                 "active": false
               },
               {
@@ -221,7 +221,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0463aca2-2000x2078-800x831.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0463aca2-2000x2078.jpg",
-                "caption": "wooden panel",
+                "caption": "wooden panel, 16x16cm",
                 "active": false
               },
               {
@@ -241,7 +241,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068.jpg",
-                "caption": "wooden panel",
+                "caption": "wooden panel, 16x16cm",
                 "active": false
               },
               {
@@ -292,10 +292,40 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0268aca2-2000x3178-800x1271.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0268aca2-2000x3178.jpg",
                 "caption": "nudemodel, A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0489aca2-2000x1379-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0489aca2-2000x1379.jpg",
+                "caption": "nudemodel, A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0494-2000x2768-800x1107.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0494-2000x2768.jpg",
+                "caption": "nudemodel, A4",
+                "active": false
+              },
+              {
+                "tags": "Drawings",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-2000x2836-800x1134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0488aca2-2000x2836.jpg",
+                "caption": "nudemodel, A4",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": true,
             "filter": true,
             "bgColor": "fff",
@@ -433,7 +463,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Artstudent Sint-Lucas, Gent</p><p>Painting, Bachelor second year</p><p>Themes and inspiration: buildings, landscapes, maps, my own pictures, collages</p><p><br></p></blockquote>"
+          "text": "<blockquote><p>Artstudent Sint-Lucas, Gent</p><p>Painting, second year Bachelor</p><p>Themes and inspiration: buildings, landscapes, maps, my own pictures, collages</p><p><br></p></blockquote>"
         },
         {
           "_tags": [
