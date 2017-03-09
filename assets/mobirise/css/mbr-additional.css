@@ -421,6 +421,13 @@ h6,
 #index-header1-0 .mbr-section-title SPAN {
   font-size: 32px;
 }
+#slider2-5 .mbr-section-title,
+#slider2-5 .mbr-section-lead {
+  color: #fff;
+}
+#slider2-5 P {
+  text-align: left;
+}
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }

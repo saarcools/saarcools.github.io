@@ -27,7 +27,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 5
+    "uniqCompNum": 6
   },
   "pages": {
     "index.html": {
@@ -191,7 +191,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0434aca2-2000x2244-800x897.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0434aca2-2000x2244.jpg",
-                "caption": "&nbsp;wooden panel",
+                "caption": "&nbsp;wooden panel, 65x60cm",
                 "active": false
               },
               {
@@ -211,7 +211,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0461aca2-2000x1999-800x799.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999.jpg",
-                "caption": "wooden panel",
+                "caption": "wooden panel, 66x66cm",
                 "active": false
               },
               {
@@ -231,7 +231,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0435aca2-2000x2300-800x920.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0435aca2-2000x2300.jpg",
-                "caption": "wooden panel",
+                "caption": "wooden panel,59x25",
                 "active": false
               },
               {
@@ -338,12 +338,23 @@
           "allItem": "All"
         },
         {
-          "_name": "slider3",
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
             "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "slides": [
               {
                 "active": true,
@@ -351,21 +362,47 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1315-per-kirkeby-vermisst-die-welt1997cfolkwang-museum-essen-2000x1158.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
                 "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
                 "showText": true,
-                "text": "",
+                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><br><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Inspiration :&nbsp;</span><br>Per Kirkeby <br>Danish painter, filmmaker,poet and sculptor<br>1938-...</p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/0c92e4ae497b3be27a99b93e296bef3d-2000x1200.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p><p>Richard Diebenkorn<br>American painter<br>1922-1993</p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
             "bgColor": "#fff",
-            "showBullets": false
+            "showBullets": true
           },
-          "_anchor": "slider3-0",
-          "articleLayout": false
+          "_anchor": "slider2-5"
         },
         {
           "_inherit": "menu",
