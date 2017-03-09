@@ -271,7 +271,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0008aca2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0008aca2-2000x1333.jpg",
-                "caption": "",
+                "caption": "A4",
                 "active": false
               },
               {
@@ -322,6 +322,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-2000x2836-800x1134.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0488aca2-2000x2836.jpg",
                 "caption": "nudemodel, A4",
+                "active": false
+              },
+              {
+                "tags": "Collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15225341-1304783466245250-1195066671-o-2000x3559-800x1423.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15225341-1304783466245250-1195066671-o-2000x3559.jpg",
+                "caption": "A5",
+                "active": false
+              },
+              {
+                "tags": "Collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15233563-1304784032911860-736914337-o-2000x3562-800x1424.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15233563-1304784032911860-736914337-o-2000x3562.jpg",
+                "caption": "A5",
                 "active": true
               }
             ],
