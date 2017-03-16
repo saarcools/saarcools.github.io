@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "index.NED.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-03-03_0916new",
@@ -27,7 +27,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
-    "uniqCompNum": 53,
+    "uniqCompNum": 59,
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93445135-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
@@ -262,7 +262,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -486,7 +486,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -578,7 +578,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Ik ben een kunststudent van Sint-Lucas te Gent. Dit schooljaar 2016-2017, volg ik mijn tweede jaar bachelor Schilderkunst.</p><p><br></p></blockquote>"
+          "text": "<blockquote><p>Ik ben een kunststudent van Sint-Lucas te Gent. </p><p>Dit schooljaar 2016-2017, volg ik mijn tweede jaar bachelor Schilderkunst.</p><p>Thema's en inspiratie : gebouwen,landschappen,landkaarten, mijn eigen foto's , collages, ...</p><p><br></p></blockquote>"
         },
         {
           "_styles": {
@@ -601,8 +601,36 @@
             "paddingBottom": "3",
             "slides": [
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atelier.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atelier2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/17270303-1467484606641801-2140406180-n.jpg",
+                "image": "@PROJECT_PATH@/assets/images/atelier4.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -638,7 +666,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -688,10 +716,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -726,7 +754,7 @@
           "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#a38f84",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -752,7 +780,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.NED.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016NED.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017NED.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS.NED.html\">tekeningen</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"INSPIRATION.NED.html\" aria-expanded=\"false\">INSPIRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.NED.html\" aria-expanded=\"false\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016NED.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017NED.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS.NED.html\">tekeningen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"werk in wording.html\">werk in wording</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS.NED.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"INSPIRATION.NED.html\" aria-expanded=\"false\">INSPIRATIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -841,8 +869,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x113990.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca196.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x1139129.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca1135.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -851,8 +879,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x119891.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca197.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x1198130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1136.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -861,8 +889,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x113292.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca198.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x1132131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca1137.jpg",
                 "caption": "A4,papier",
                 "active": false
               },
@@ -871,8 +899,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x120193.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca199.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x1201132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca1138.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -881,8 +909,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x89394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x893133.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1139.jpg",
                 "caption": "110x90cm,schildersdoek",
                 "active": true
               },
@@ -891,8 +919,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x129395.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1101.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x1293134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1140.jpg",
                 "caption": "160x130cm, schildersdoek",
                 "active": false
               }
@@ -1062,7 +1090,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999103.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999141.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1092,7 +1120,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Im an artstudent in Sint-Lucas, Gent. Schoolyear 2016-2017, is my second bachelor year Painting.</p><p>Themes and inspiration: buildings, landscapes, maps, my own pictures, collages</p><p><br></p></blockquote>"
+          "text": "<blockquote><p>Im an artstudent at Sint-Lucas, Gent. Schoolyear 2016-2017, is my second bachelor year Painting.</p><p>Themes and inspiration: buildings, landscapes, maps, my own pictures, collages</p><p><br></p></blockquote>"
         },
         {
           "_styles": {
@@ -1116,7 +1144,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/17270303-1467484606641801-2140406180-n102.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17270303-1467484606641801-2140406180-n.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1156,10 +1184,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1191,7 +1219,7 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1217,7 +1245,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016NED.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017NED.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS.NED.html\">drawings<br>in progress</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"INSPIRATION.NED.html\" aria-expanded=\"false\">INSPIRATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-gallery4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2016NED.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"2017NED.html\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DRAWINGS.NED.html\">drawings<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"in progress eng.html\">in progress</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"INSPIRATION.NED.html\" aria-expanded=\"false\">INSPIRATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MAIL.NED.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1237,7 +1265,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1333,8 +1361,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x1158104.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-1106.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x1158142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-1144.jpg",
                 "caption": "A3,papier",
                 "active": false
               },
@@ -1353,8 +1381,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x1134105.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0488aca2107.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x1134143.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0488aca2145.jpg",
                 "caption": "A4,papier",
                 "active": true
               }
@@ -1397,7 +1425,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>workplace:<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1428,6 +1456,108 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
+        }
+      ]
+    },
+    "in progress eng.html": {
+      "settings": {
+        "title": "Site Maker Title",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0503.jpg",
+                "caption": "140x110cm, canvas",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x602.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0505.jpg",
+                "caption": "70x50cm, canvas",
+                "active": true
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1l",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "werk in wording.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x609146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0503148.jpg",
+                "caption": "140x110cm, schildersdoek",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x602147.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0505149.jpg",
+                "caption": "70x50cm, schildersdoek",
+                "active": true
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1m",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
