@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.NED.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "NewSite-03-03_0916new",
@@ -869,8 +869,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x1139129.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca1135.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x11390.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca16.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -879,8 +879,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x1198130.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca1136.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x11981.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca17.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -889,8 +889,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x1132131.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca1137.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x11322.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca18.jpg",
                 "caption": "A4,papier",
                 "active": false
               },
@@ -899,8 +899,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x1201132.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca1138.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x12013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca19.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -909,8 +909,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x893133.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca1139.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x8934.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca110.jpg",
                 "caption": "110x90cm,schildersdoek",
                 "active": true
               },
@@ -919,8 +919,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x1293134.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca1140.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x12935.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca111.jpg",
                 "caption": "160x130cm, schildersdoek",
                 "active": false
               }
@@ -1090,7 +1090,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x1999141.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x199912.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1143,8 +1143,36 @@
             "paddingBottom": "3",
             "slides": [
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atelier.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atelier2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/17270303-1467484606641801-2140406180-n.jpg",
+                "image": "@PROJECT_PATH@/assets/images/atelier3.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1361,8 +1389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x1158142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-1144.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x115813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-115.jpg",
                 "caption": "A3,papier",
                 "active": false
               },
@@ -1381,8 +1409,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x1134143.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0488aca2145.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x113414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0488aca216.jpg",
                 "caption": "A4,papier",
                 "active": true
               }
@@ -1531,8 +1559,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x609146.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0503148.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x60917.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050319.jpg",
                 "caption": "140x110cm, schildersdoek",
                 "active": false
               },
@@ -1541,8 +1569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x602147.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0505149.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x60218.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050520.jpg",
                 "caption": "70x50cm, schildersdoek",
                 "active": true
               }
