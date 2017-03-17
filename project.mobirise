@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "MAIL.NED.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
-    "name": "NewSite-03-03_0916new",
+    "name": "site engels-03-03_0916new",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -869,8 +869,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x113921.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca127.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0090aca1-800x11390.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0090aca16.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -879,8 +879,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x119822.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca128.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0089aca1-800x11981.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0089aca17.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -889,8 +889,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x113223.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca129.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0088aca1-800x11322.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0088aca18.jpg",
                 "caption": "A4,papier",
                 "active": false
               },
@@ -899,8 +899,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x120124.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca130.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0086aca1-800x12013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0086aca19.jpg",
                 "caption": "A4, papier",
                 "active": false
               },
@@ -909,8 +909,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x89325.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca131.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0098aca1-800x8934.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0098aca110.jpg",
                 "caption": "110x90cm,schildersdoek",
                 "active": true
               },
@@ -919,8 +919,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x129326.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0085aca1-800x12935.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0085aca111.jpg",
                 "caption": "160x130cm, schildersdoek",
                 "active": false
               }
@@ -1090,7 +1090,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x199933.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x199912.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1293,7 +1293,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br><strong><br></strong>website: <a href=\"http://http://www.lucaschilderkunstgent.be/\">http://www.lucaschilderkunstgent.be/</a><br>\nEmail: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1389,8 +1389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x115834.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-136.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x115813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-115.jpg",
                 "caption": "A3,papier",
                 "active": false
               },
@@ -1409,8 +1409,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x113435.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0488aca237.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x113414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0488aca216.jpg",
                 "caption": "A4,papier",
                 "active": true
               }
@@ -1559,8 +1559,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x60938.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc050340.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x60917.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050319.jpg",
                 "caption": "140x110cm, schildersdoek",
                 "active": false
               },
@@ -1569,8 +1569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x60239.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc050541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x60218.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050520.jpg",
                 "caption": "70x50cm, schildersdoek",
                 "active": true
               }
